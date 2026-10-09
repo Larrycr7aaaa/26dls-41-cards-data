@@ -215,14 +215,25 @@ function renderBarraStat(label, valor) {
 function buscarJugador() {
     const busqueda = searchInput.value.trim().toLowerCase();
 
-    jugadoresFiltrados = todosLosJugadores.filter(p =>
-        p.name.toLowerCase().includes(busqueda) ||
-        p.team.toLowerCase().includes(busqueda) ||
-        p.country.name.toLowerCase().includes(busqueda) ||
-        p.position.toLowerCase().includes(busqueda) ||
-        p.cardType.toLowerCase().includes(busqueda)||
-       p.rating.toNumber().includes(busqueda)                                           
-    );
+    jugadoresFiltrados = todosLosJugadores.filter(p => {
+        // 1. Validaciones de seguridad por si algún jugador no tiene un dato rellenado
+        const name = p.name ? p.name.toLowerCase() : '';
+        const team = p.team ? p.team.toLowerCase() : '';
+        const country = p.country && p.country.name ? p.country.name.toLowerCase() : '';
+        const position = p.position ? p.position.toLowerCase() : '';
+        const cardType = p.cardType ? p.cardType.toLowerCase() : '';
+        
+        // 2. CORRECCIÓN AQUÍ: Convertimos el rating numérico a texto para poder usar .includes()
+        const rating = p.rating ? p.rating.toString() : '';
+
+        // 3. Evaluamos si la búsqueda coincide con algún campo
+        return name.includes(busqueda) ||
+               team.includes(busqueda) ||
+               country.includes(busqueda) ||
+               position.includes(busqueda) ||
+               cardType.includes(busqueda) ||
+               rating.includes(busqueda); // Ahora puedes buscar "9" y te saldrán los de 90, 91, 92, etc.
+    });
 
     offset = 0;
     renderizarPaginaActual();
