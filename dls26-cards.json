@@ -1,5 +1,23 @@
 [
-  {"music":{"m1":"","m2":"","m3":"","m4":""} },
+[
+  {
+    "titulo": "1",
+    "src": "./sound 1 dls.mp3"
+  },
+  {
+    "titulo": "2",
+    "src": "./sound 2 dls.mp3"
+  },
+  {
+    "titulo": "3",
+    "src": "./sound 3 dls.mp3"
+  },
+  {
+    "titulo": "4",
+    "src": "./sound 4 dls.mp3"
+  }
+]
+
   {
     "id": "arda-guler-2026-dynamic-stars",
     "name": "Arda Güler",
