@@ -1,4 +1,5 @@
 [
+  {"music":{"m1":"","m2":"","m3":"","m4":""} },
   {
     "id": "arda-guler-2026-dynamic-stars",
     "name": "Arda Güler",
@@ -310,7 +311,7 @@
   {
     "id": "ngolo-kante-2016-champions",
     "name": "N'Golo Kanté",
-    "image": "kante.jpg",
+    "image": "kante.png",
     "rating": 95,
     "position": "MCD",
     "country": {
@@ -411,7 +412,7 @@
   {
     "id": "lionel-messi-2012-champions",
     "name": "Lionel Messi",
-    "image": "messi.jpg",
+    "image": "messi2012.jpg",
     "rating": 98,
     "position": "ED",
     "country": {
@@ -511,7 +512,7 @@
   {
     "id": "patrick-berg-2026-dream-stars",
     "name": "Patrick Berg",
-    "image": "berg.jpg",
+    "image": "berg.jpeg",
     "rating": 95,
     "position": "MCD",
     "country": {
@@ -531,7 +532,7 @@
   {
     "id": "julian-ryerson-2026-dream-stars",
     "name": "Julian Ryerson",
-    "image": "ryerson.jpg",
+    "image": "ryerson.jpeg",
     "rating": 95,
     "position": "LD",
     "country": {
@@ -591,7 +592,7 @@
   {
     "id": "isco-2017-cult-heroes",
     "name": "Isco",
-    "image": "ir.jpg",
+    "image": "isco.jpg",
     "rating": 94,
     "position": "MCO",
     "country": {
@@ -611,7 +612,7 @@
   {
     "id": "paulo-dybala-2020-cult-heroes",
     "name": "Paulo Dybala",
-    "image": "dybala.jpg",
+    "image": "dybala.jpeg",
     "rating": 95,
     "position": "SD",
     "country": {
@@ -631,7 +632,7 @@
   {
     "id": "david-luiz-2017-cult-heroes",
     "name": "David Luiz",
-    "image": "davidluiz.jpg",
+    "image": "dl.jpg",
     "rating": 94,
     "position": "DFC",
     "country": {
@@ -651,7 +652,7 @@
   {
     "id": "vozinha-2026-cult-heroes",
     "name": "Vozinha",
-    "image": "vozinha.jpg",
+    "image": "vozinha.png",
     "rating": 94,
     "position": "GK",
     "country": {
@@ -672,7 +673,7 @@
   {
     "id": "lamine-yamal-2026-wc-champions",
     "name": "Lamine Yamal",
-    "image": "yamal.jpg",
+    "image": "yamal.png",
     "rating": 97,
     "position": "ED",
     "country": {
@@ -692,7 +693,7 @@
   {
     "id": "rodri-2026-wc-champions",
     "name": "Rodri",
-    "image": "rodri.jpg",
+    "image": "rodri.png",
     "rating": 97,
     "position": "MCD",    
     "country": {
@@ -712,7 +713,7 @@
   {
     "id": "pau-cubarsi-2026-wc-champions",
     "name": "Pau Cubarsí",
-    "image": "cubarsi.jpg",
+    "image": "cubarsi.png",
     "rating": 95,
     "position": "DFC", 
     "country": {
