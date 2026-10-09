@@ -2,10 +2,9 @@
   {
     "id": "arda-guler-2026-dynamic-stars",
     "name": "Arda Güler",
-    "image": "ag.jpg",
+    "image": "guler.jpg",
     "rating": 96,
     "position": "MCO",
-    
     "country": {
       "name": "Turquía",
       "flag": "🇹🇷"
@@ -26,7 +25,6 @@
     "image": "ee.jpg",
     "rating": 96,
     "position": "MCO",
-    
     "country": {
       "name": "Inglaterra",
       "flag": "🇬🇧"
@@ -47,7 +45,6 @@
     "image": "rdp.jpg",
     "rating": 96,
     "position": "MC",
-
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -68,7 +65,6 @@
     "image": "rr.jpg",
     "rating": 96,
     "position": "MCD",
-   
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
@@ -86,10 +82,9 @@
   {
     "id": "weston-mckennie-2026-dynamic-stars",
     "name": "Weston McKennie",
-    "image": "mck.jpg",
+    "image": "mc kennie.jpeg",
     "rating": 96,
     "position": "MC",
-    "position2": null,
     "country": {
       "name": "EE.UU.",
       "flag": "🇺🇸"
@@ -110,7 +105,6 @@
     "image": "nw.jpg",
     "rating": 96,
     "position": "EI",
-
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -128,7 +122,7 @@
   {
     "id": "ousmane-dembele-2025-team-of-2025",
     "name": "Ousmane Dembélé",
-    "image": "od.jpg",
+    "image": "dembele.jpg",
     "rating": 97,
     "position": "ED",
     
@@ -149,7 +143,7 @@
   {
     "id": "kylian-mbappe-2025-team-of-2025",
     "name": "Kylian Mbappé",
-    "image": "km.jpg",
+    "image": "mbappe.jpg",
     "rating": 97,
     "position": "DC",
    
@@ -170,7 +164,7 @@
   {
     "id": "harry-kane-2025-team-of-2025",
     "name": "Harry Kane",
-    "image": "hk.jpg",
+    "image": "kane.jpg",
     "rating": 97,
     "position": "DC",
     
@@ -191,10 +185,9 @@
   {
     "id": "pedri-2025-team-of-2025",
     "name": "Pedri",
-    "image": "p.jpg",
+    "image": "pedri.jpeg",
     "rating": 96,
-    "position": "MC",
-    
+    "position": "MC"
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -212,7 +205,7 @@
   {
     "id": "joao-pedro-2026-nuevas-especiales",
     "name": "João Pedro",
-    "image": "jp.jpg",
+    "image": "j.pedro.jpg",
     "rating": 93,
     "position": "DC",
    
@@ -221,7 +214,7 @@
       "flag": "🇧🇷"
     },
     "team": "Chelsea",
-    "cardType": "Nuevas Especiales",
+    "cardType": "Season Pass",
     "year": 2026,
     "heightCm": 182,
     "preferredFoot": "right",
@@ -233,7 +226,7 @@
   {
     "id": "kevin-de-bruyne-2018-wc-heroes",
     "name": "Kevin De Bruyne",
-    "image": "kdb.jpg",
+    "image": "de bruyne.jpg",
     "rating": 96,
     "position": "MCO",
     
@@ -254,7 +247,7 @@
   {
     "id": "luka-modric-2018-champions",
     "name": "Luka Modrić",
-    "image": "modric.jpg",
+    "image": "modric.jpeg",
     "rating": 96,
     "position": "MC",
     
@@ -275,7 +268,7 @@
   {
     "id": "keylor-navas-2014-wc-heroes",
     "name": "Keylor Navas",
-    "image": "navas.jpg",
+    "image": "k.navas.jpeg",
     "rating": 95,
     "position": "GK",
     "country": {
@@ -288,15 +281,15 @@
     "heightCm": 185,
     "preferredFoot": "right",
     "stats": {
-      "physical": { "speed": 67, "acceleration": 67, "strength": 54 },
-      "technical": { "control": 62, "passing": 60, "tackling": 50 },
+      "physical": { "speed": 77, "acceleration": 69, "strength": 74 },
+      "technical": { "control": 62, "passing": 60, "tackling": 90 },
       "goalkeeping": { "reflexes": 100, "handling": 85 }
     }
   },
   {
     "id": "angel-di-maria-2014-champions",
     "name": "Ángel Di María",
-    "image": "dimaria.jpg",
+    "image": "di maria.jpeg",
     "rating": 95,
     "position": "ED",
    
@@ -320,7 +313,6 @@
     "image": "kante.jpg",
     "rating": 95,
     "position": "MCD",
-    "position2": null,
     "country": {
       "name": "Francia",
       "flag": "🇫🇷"
@@ -338,10 +330,10 @@
   {
     "id": "james-rodriguez-2014-wc-heroes",
     "name": "James Rodríguez",
-    "image": "james.jpg",
+    "image": "james.png",
     "rating": 95,
     "position": "MCO",
-    "position2": null,
+    "p
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
@@ -362,7 +354,6 @@
     "image": "cannavaro.jpg",
     "rating": 96,
     "position": "DFC",
-    "position2": null,
     "country": {
       "name": "Italia",
       "flag": "🇮🇹"
@@ -383,7 +374,6 @@
     "image": "rivaldo.jpg",
     "rating": 96,
     "position": "EI",
-    "position2": null,
     "country": {
       "name": "Brasil",
       "flag": "🇧🇷"
@@ -404,7 +394,6 @@
     "image": "valderrama.jpg",
     "rating": 93,
     "position": "MCO",
-    "position2": null,
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
@@ -424,8 +413,7 @@
     "name": "Lionel Messi",
     "image": "messi.jpg",
     "rating": 98,
-    "position": "SD",
-    "position2": null,
+    "position": "ED",
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -443,10 +431,9 @@
   {
     "id": "cristiano-ronaldo-2014-champions",
     "name": "Cristiano Ronaldo",
-    "image": "cr7.jpg",
+    "image": "cr17.jpg",
     "rating": 98,
     "position": "EI",
-    "position2": null,
     "country": {
       "name": "Portugal",
       "flag": "🇵🇹"
@@ -464,10 +451,9 @@
   {
     "id": "cristiano-ronaldo-2018-wc-heroes",
     "name": "Cristiano Ronaldo",
-    "image": "cr7.jpg",
+    "image": "cr18.jpg",
     "rating": 97,
     "position": "DC",
-    "position2": null,
     "country": {
       "name": "Portugal",
       "flag": "🇵🇹"
@@ -488,7 +474,6 @@
     "image": "suarez.jpg",
     "rating": 93,
     "position": "DC",
-    "position2": null,
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
