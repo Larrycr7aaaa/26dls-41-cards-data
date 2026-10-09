@@ -1,25 +1,5 @@
 [
-  {
-    "titulo": "Sonido 1",
-    "artista": "DLS Audio",
-    "src": "./DLS DATA BASE/sound 1 dls.mp3"
-  },
-  {
-    "titulo": "Sonido 2",
-    "artista": "DLS Audio",
-    "src": "./DLS DATA BASE/sound 2 dls.mp3"
-  },
-  {
-    "titulo": "Sonido 3",
-    "artista": "DLS Audio",
-    "src": "./DLS DATA BASE/sound 3 dls.mp3"
-  },
-  {
-    "titulo": "Sonido 4",
-    "artista": "DLS Audio",
-    "src": "./DLS DATA BASE/sound 4 dls.mp3"
-  },
-
+ 
   {
     "id": "arda-guler-2026-dynamic-stars",
     "name": "Arda Güler",
