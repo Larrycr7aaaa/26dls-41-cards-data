@@ -221,7 +221,7 @@ function buscarJugador() {
         p.country.name.toLowerCase().includes(busqueda) ||
         p.position.toLowerCase().includes(busqueda) ||
         p.cardType.toLowerCase().includes(busqueda)||
-       p.rating.tLowerCase().includes(busqueda)                                           
+       p.rating.toNumber().includes(busqueda)                                           
     );
 
     offset = 0;
