@@ -17,60 +17,6 @@ body {
     background: #eef2f7;
     color: #333;
 }
-.player-container {
-    background-color: #1e293b; /* Tarjeta gris azulada */
-    padding: 30px;
-    border-radius: 20px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
-    text-align: center;
-    width: 320px;
-}
-
-h2 {
-    font-size: 20px;
-    margin-bottom: 5px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-p {
-    color: #94a3b8;
-    font-size: 14px;
-    margin-bottom: 25px;
-}
-
-.progress-area input[type="range"] {
-    width: 100%;
-    margin-bottom: 20px;
-    cursor: pointer;
-    accent-color: #38bdf8; /* Color azul brillante para la barra */
-}
-
-.controls-area {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-}
-
-.controls-area button {
-    background: none;
-    border: none;
-    color: #f8fafc;
-    font-size: 28px;
-    cursor: pointer;
-    transition: transform 0.2s, color 0.2s;
-}
-
-.controls-area button:hover {
-    transform: scale(1.15);
-    color: #38bdf8;
-}
-
-#btnPlayPause {
-    font-size: 36px; /* Botón de Play más grande */
-}
 
 
 /* ================================= */
